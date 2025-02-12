@@ -7,4 +7,5 @@ The project consists of the following:
 - **analysis.ipynb:** Jupyter notebook with the analysis of the scale-free networks and simulation outputs, also performed with Python. 
 - **figures:** Folder with the figures generated during the analysis of the results.
 - **presentation.key:** Presentation of the project in keynote format.
+- **presentation.pdf:** Presentation of the project in PDF format.
 - **scale_free_session.cys:** Session file for the Cytoscape software, used to generate images of the scale-free networks developed in the project.
